@@ -1,0 +1,21 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "rajkumar",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-beta.3",
+    "cors": "^2.8.5",
+    "csv-load-sync": "^1.0.0",
+    "csvtojson": "^2.0.8",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.3",
+    "nodemon": "^1.18.9"
+  }
+}
